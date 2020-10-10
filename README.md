@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamaucamp&label=Profile%20views&color=0e75b6&style=flat" alt="adamaucamp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamaucamp" alt="adamaucamp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamaucamp&theme=onedark" alt="adamaucamp" /></a> </p>
 
 - 🔭 I’m currently working on **some stuff**
 
